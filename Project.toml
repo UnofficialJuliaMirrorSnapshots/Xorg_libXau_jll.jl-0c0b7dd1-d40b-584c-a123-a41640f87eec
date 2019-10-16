@@ -1,0 +1,11 @@
+name = "Xorg_libXau_jll"
+uuid = "0c0b7dd1-d40b-584c-a123-a41640f87eec"
+version = "1.0.9+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Xorg_xproto_jll = "46797783-dccc-5433-be59-056c4bde8513"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
